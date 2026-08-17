@@ -92,6 +92,7 @@ function scr_KSW_SetFishes()
 	var series_SnowBros = global.KSW_SeriesIDs[? "snowBros"];
 	var series_ClashClans = global.KSW_SeriesIDs[? "clashClans"];
 	var series_Celeste = global.KSW_SeriesIDs[? "celeste"];
+	var series_MegaManUnlimited = global.KSW_SeriesIDs[? "megaManUnlimited"];
 	var series_Misc = global.KSW_SeriesIDs[? "misc"];
 	#endregion
 	
@@ -1651,6 +1652,8 @@ function scr_KSW_SetFishes()
 	scr_KSW_AddFish("Hinyari",spr_KSW_Fish_Hinyari,spr_KSW_Fish_Hinyari_Pal,series_SuperMario,legion,1,creamCrevasse,KSW_Phases.day,1994);
 	scr_KSW_AddFish("Crystal Heart",spr_KSW_Fish_CrystalHeart,spr_KSW_Fish_CrystalHeart_Pal,series_Celeste,candy,2,creamCrevasse,KSW_Phases.none,4000,-9,-9);
 	scr_KSW_AddFish("Goldberry",spr_KSW_Fish_Goldberry,spr_KSW_Fish_Goldberry_Pal,series_Celeste,borange,3,anyStage,KSW_Phases.none,1000,-33,-31);
+	
+	#region 1.3
 	scr_KSW_AddFish("Bells",spr_KSW_Fish_Bells,spr_KSW_Fish_Bells_Pal,series_AnimalCrossing,mint,0,grassBeach,KSW_Phases.none,100);
 	scr_KSW_AddFish("Gyroid",spr_KSW_Fish_Gyroid,spr_KSW_Fish_Gyroid_Pal,series_AnimalCrossing,mint,1,grassBeach,KSW_Phases.none,828);
 	scr_KSW_AddFish("Pitfall Seed",spr_KSW_Fish_PitfallSeed,spr_KSW_Fish_PitfallSeed_Pal,series_AnimalCrossing,mint,1,grassBeach,KSW_Phases.none,10);
@@ -1674,6 +1677,20 @@ function scr_KSW_SetFishes()
 	scr_KSW_AddFish("Plucky",spr_KSW_Fish_Plucky,spr_KSW_Fish_Plucky_Pal,series_AnimalCrossing,mint,1,grassBeach,KSW_Phases.night,1500);
 	scr_KSW_AddFish("Rowan",spr_KSW_Fish_Rowan,spr_KSW_Fish_Rowan_Pal,series_AnimalCrossing,glimmer,1,grassBeach,KSW_Phases.afternoon,1810);
 	scr_KSW_AddFish("Yodel",spr_KSW_Fish_Yodel,spr_KSW_Fish_Yodel_Pal,series_AnimalCrossing,borange,3,grassBeach,KSW_Phases.none,6800);
+	
+	scr_KSW_AddFish("Toady",spr_KSW_Fish_Toady,spr_KSW_Fish_Toady_Pal,series_MegaManUnlimited,legion,0,androidPort,KSW_Phases.none,150);
+	scr_KSW_AddFish("C-Horse",spr_KSW_Fish_CHorse,spr_KSW_Fish_CHorse_Pal,series_MegaManUnlimited,legion,0,androidPort,KSW_Phases.none,1050);
+	scr_KSW_AddFish("Big Fish Mk. II",spr_KSW_Fish_BigFish2,spr_KSW_Fish_BigFish2_Pal,series_MegaManUnlimited,legion,1,androidPort,KSW_Phases.none,10500);
+	scr_KSW_AddFish("Metalaser",spr_KSW_Fish_Metalaser,spr_KSW_Fish_Metalaser_Pal,series_MegaManUnlimited,borange,0,serranoSprings,KSW_Phases.none,150);
+	scr_KSW_AddFish("Metjack",spr_KSW_Fish_Metjack,spr_KSW_Fish_Metjack_Pal,series_MegaManUnlimited,borange,0,serranoSprings,KSW_Phases.none,1050);
+	//scr_KSW_AddFish("Skoripion",spr_KSW_Fish_Skoripion,spr_KSW_Fish_Skoripion_Pal,series_MegaManUnlimited,borange,0,androidPort,KSW_Phases.none,0);
+	//scr_KSW_AddFish("Tank Joe",spr_KSW_Fish_TankJoe,spr_KSW_Fish_TankJoe_Pal,series_MegaManUnlimited,borange,1,androidPort,KSW_Phases.none,0);
+	//scr_KSW_AddFish("Octo",spr_KSW_Fish_Octo,spr_KSW_Fish_Octo_Pal,series_MegaManUnlimited,borange,1,androidPort,KSW_Phases.none,0);
+	//scr_KSW_AddFish("PF-1407A",spr_KSW_Fish_PF1407A,spr_KSW_Fish_PF1407A_Pal,series_MegaManUnlimited,borange,1,androidPort,KSW_Phases.none,0);
+	//scr_KSW_AddFish("Platypressor",spr_KSW_Fish_Platypressor,spr_KSW_Fish_Platypressor_Pal,series_MegaManUnlimited,borange,1,androidPort,KSW_Phases.none,0);
+	scr_KSW_AddFish("Elecrab",spr_KSW_Fish_Elecrab,spr_KSW_Fish_Elecrab_Pal,series_MegaManUnlimited,maze,1,androidPort,KSW_Phases.none,10500);
+	//scr_KSW_AddFish("Whirlpool Man",spr_KSW_Fish_WhirlpoolMan,spr_KSW_Fish_WhirlpoolMan_Pal,series_MegaManUnlimited,borange,2,androidPort,KSW_Phases.none,0);
+	
 	#endregion
 	#endregion
 }
