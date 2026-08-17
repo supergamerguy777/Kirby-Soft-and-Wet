@@ -1,4 +1,20 @@
 {
-  "FolderOrderSettings":[],
-  "ResourceOrderSettings":[],
+  "FolderOrderSettings":[
+    {"name":"Yodel","order":7,"path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.2/Yodel.yy",},
+    {"name":"June","order":1,"path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.2/June.yy",},
+    {"name":"Maelle","order":2,"path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.2/Maelle.yy",},
+    {"name":"O'Hare","order":3,"path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.2/O'Hare.yy",},
+    {"name":"Pigleg","order":4,"path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.2/Pigleg.yy",},
+    {"name":"Plucky","order":5,"path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.2/Plucky.yy",},
+    {"name":"Rowan","order":6,"path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.2/Rowan.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"spr_KSW_Fish_June_Pal","order":1,"path":"sprites/spr_KSW_Fish_June_Pal/spr_KSW_Fish_June_Pal.yy",},
+    {"name":"spr_KSW_Fish_Maelle_Pal","order":1,"path":"sprites/spr_KSW_Fish_Maelle_Pal/spr_KSW_Fish_Maelle_Pal.yy",},
+    {"name":"spr_KSW_Fish_OHare_Pal","order":1,"path":"sprites/spr_KSW_Fish_OHare_Pal/spr_KSW_Fish_OHare_Pal.yy",},
+    {"name":"spr_KSW_Fish_Pigleg_Pal","order":1,"path":"sprites/spr_KSW_Fish_Pigleg_Pal/spr_KSW_Fish_Pigleg_Pal.yy",},
+    {"name":"spr_KSW_Fish_Plucky_Pal","order":1,"path":"sprites/spr_KSW_Fish_Plucky_Pal/spr_KSW_Fish_Plucky_Pal.yy",},
+    {"name":"spr_KSW_Fish_Rowan_Pal","order":1,"path":"sprites/spr_KSW_Fish_Rowan_Pal/spr_KSW_Fish_Rowan_Pal.yy",},
+    {"name":"spr_KSW_Fish_Yodel_Pal","order":1,"path":"sprites/spr_KSW_Fish_Yodel_Pal/spr_KSW_Fish_Yodel_Pal.yy",},
+  ],
 }
