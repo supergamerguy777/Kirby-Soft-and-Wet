@@ -1,5 +1,6 @@
 {
   "FolderOrderSettings":[
+    {"name":"1.3","order":1,"path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.3.yy",},
     {"name":"Ankha","order":5,"path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.3/Ankha.yy",},
     {"name":"Annalise","order":6,"path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.3/Annalise.yy",},
     {"name":"Big Fish Mk. II","order":27,"path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.3/Big Fish Mk. II.yy",},
@@ -7,6 +8,7 @@
     {"name":"Bud","order":8,"path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.3/Bud.yy",},
     {"name":"C-Horse","order":24,"path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.3/C-Horse.yy",},
     {"name":"Caroline","order":9,"path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.3/Caroline.yy",},
+    {"name":"Coner","order":37,"path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.3/Coner.yy",},
     {"name":"Dobie","order":10,"path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.3/Dobie.yy",},
     {"name":"Drift","order":11,"path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.3/Drift.yy",},
     {"name":"Elecrab","order":34,"path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.3/Elecrab.yy",},
@@ -14,6 +16,7 @@
     {"name":"Faith","order":13,"path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.3/Faith.yy",},
     {"name":"Flash","order":14,"path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.3/Flash.yy",},
     {"name":"Flossie","order":15,"path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.3/Flossie.yy",},
+    {"name":"Cawcun","order":38,"path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.3/Cawcun.yy",},
     {"name":"Gyroid","order":1,"path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.3/Gyroid.yy",},
     {"name":"June","order":16,"path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.3/June.yy",},
     {"name":"Leaf","order":3,"path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.3/Leaf.yy",},
@@ -34,11 +37,12 @@
     {"name":"Toady","order":23,"path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.3/Toady.yy",},
     {"name":"Whirlpool Man","order":32,"path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.3/Whirlpool Man.yy",},
     {"name":"Yodel","order":21,"path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.3/Yodel.yy",},
-    {"name":"1.3","order":1,"path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.3.yy",},
   ],
   "ResourceOrderSettings":[
     {"name":"spr_KSW_Fish_BigFish2_Pal","order":1,"path":"sprites/spr_KSW_Fish_BigFish2_Pal/spr_KSW_Fish_BigFish2_Pal.yy",},
+    {"name":"spr_KSW_Fish_Cawcun_Pal","order":1,"path":"sprites/spr_KSW_Fish_Cawcun_Pal/spr_KSW_Fish_Cawcun_Pal.yy",},
     {"name":"spr_KSW_Fish_CHorse_Pal","order":1,"path":"sprites/spr_KSW_Fish_CHorse_Pal/spr_KSW_Fish_CHorse_Pal.yy",},
+    {"name":"spr_KSW_Fish_Coner_Pal","order":1,"path":"sprites/spr_KSW_Fish_Coner_Pal/spr_KSW_Fish_Coner_Pal.yy",},
     {"name":"spr_KSW_Fish_Elecrab_Pal","order":1,"path":"sprites/spr_KSW_Fish_Elecrab_Pal/spr_KSW_Fish_Elecrab_Pal.yy",},
     {"name":"spr_KSW_Fish_June_Pal","order":1,"path":"sprites/spr_KSW_Fish_June_Pal/spr_KSW_Fish_June_Pal.yy",},
     {"name":"spr_KSW_Fish_Maelle_Pal","order":1,"path":"sprites/spr_KSW_Fish_Maelle_Pal/spr_KSW_Fish_Maelle_Pal.yy",},

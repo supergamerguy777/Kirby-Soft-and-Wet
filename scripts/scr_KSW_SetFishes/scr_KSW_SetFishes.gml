@@ -11,6 +11,7 @@ function scr_KSW_SetFishes()
 	
 	#region Series
 	var series_Kirby = global.KSW_SeriesIDs[? "kirby"];
+	var series_KirbysDreamlandAdvance = global.KSW_SeriesIDs[? "kirbysDreamlandAdvance"];
 	var series_Castlevania = global.KSW_SeriesIDs[? "castlevania"];
 	var series_Metroid = global.KSW_SeriesIDs[? "metroid"];
 	var series_Insaniquarium = global.KSW_SeriesIDs[? "insaniquarium"];
@@ -53,6 +54,7 @@ function scr_KSW_SetFishes()
 	var series_ShovelKnight = global.KSW_SeriesIDs[? "shovelKnight"];
 	var series_MegaMan = global.KSW_SeriesIDs[? "megaMan"];
 	var series_MegaManSequelWars = global.KSW_SeriesIDs[? "megaManSequelWars"];
+	var series_MegaManUnlimited = global.KSW_SeriesIDs[? "megaManUnlimited"];
 	var series_Peggle = global.KSW_SeriesIDs[? "peggle"];
 	var series_AntonBlast = global.KSW_SeriesIDs[? "antonBlast"];
 	var series_AntonBlast = global.KSW_SeriesIDs[? "pizzaTower"]; //Funny
@@ -92,8 +94,6 @@ function scr_KSW_SetFishes()
 	var series_SnowBros = global.KSW_SeriesIDs[? "snowBros"];
 	var series_ClashClans = global.KSW_SeriesIDs[? "clashClans"];
 	var series_Celeste = global.KSW_SeriesIDs[? "celeste"];
-	var series_MegaManUnlimited = global.KSW_SeriesIDs[? "megaManUnlimited"];
-	var series_KirbysDreamlandAdvance = global.KSW_SeriesIDs[? "kirbysDreamlandAdvance"];
 	var series_Misc = global.KSW_SeriesIDs[? "misc"];
 	#endregion
 	
@@ -1690,8 +1690,8 @@ function scr_KSW_SetFishes()
 	scr_KSW_AddFish("Whirlpool Man",spr_KSW_Fish_WhirlpoolMan,spr_KSW_Fish_WhirlpoolMan_Pal,series_MegaManUnlimited,legion,2,androidPort,KSW_Phases.afternoon,10500);
 	scr_KSW_AddFish("Octo",spr_KSW_Fish_Octo,spr_KSW_Fish_Octo_Pal,series_MegaManUnlimited,borange,3,androidPort,KSW_Phases.day,105000);
 	scr_KSW_AddFish("Elecrab",spr_KSW_Fish_Elecrab,spr_KSW_Fish_Elecrab_Pal,series_MegaManUnlimited,maze,3,androidPort,KSW_Phases.night,105000);
-	
-	//scr_KSW_AddFish("Booler",spr_KSW_Fish_Booler,spr_KSW_Fish_Booler_Pal,series_KirbysDreamlandAdvance,mage,0,hallowReen,KSW_Phases.day,196);
+	scr_KSW_AddFish("Coner",spr_KSW_Fish_Coner,spr_KSW_Fish_Coner_Pal,series_Kirby,mage,0,grassBeach,KSW_Phases.day,300);
+	scr_KSW_AddFish("Cawcun",spr_KSW_Fish_Cawcun,spr_KSW_Fish_Cawcun_Pal,series_Kirby,mint,1,grassBeach,KSW_Phases.night,600);
 	
 	#endregion
 	#endregion
