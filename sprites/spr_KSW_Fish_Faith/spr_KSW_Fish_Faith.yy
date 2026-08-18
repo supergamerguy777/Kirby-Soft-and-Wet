@@ -26,7 +26,7 @@
   "origin":4,
   "parent":{
     "name":"Faith",
-    "path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.2/Faith.yy",
+    "path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.3/Faith.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -29,7 +29,7 @@
   "origin":4,
   "parent":{
     "name":"Whirlpool Man",
-    "path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.2/Whirlpool Man.yy",
+    "path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.3/Whirlpool Man.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

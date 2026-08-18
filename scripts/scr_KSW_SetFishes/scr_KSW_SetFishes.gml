@@ -93,6 +93,7 @@ function scr_KSW_SetFishes()
 	var series_ClashClans = global.KSW_SeriesIDs[? "clashClans"];
 	var series_Celeste = global.KSW_SeriesIDs[? "celeste"];
 	var series_MegaManUnlimited = global.KSW_SeriesIDs[? "megaManUnlimited"];
+	var series_KirbysDreamlandAdvance = global.KSW_SeriesIDs[? "kirbysDreamlandAdvance"];
 	var series_Misc = global.KSW_SeriesIDs[? "misc"];
 	#endregion
 	
@@ -1677,7 +1678,6 @@ function scr_KSW_SetFishes()
 	scr_KSW_AddFish("Plucky",spr_KSW_Fish_Plucky,spr_KSW_Fish_Plucky_Pal,series_AnimalCrossing,mint,1,grassBeach,KSW_Phases.night,1500);
 	scr_KSW_AddFish("Rowan",spr_KSW_Fish_Rowan,spr_KSW_Fish_Rowan_Pal,series_AnimalCrossing,glimmer,1,grassBeach,KSW_Phases.afternoon,1810);
 	scr_KSW_AddFish("Yodel",spr_KSW_Fish_Yodel,spr_KSW_Fish_Yodel_Pal,series_AnimalCrossing,borange,3,grassBeach,KSW_Phases.none,6800);
-	
 	scr_KSW_AddFish("Toady",spr_KSW_Fish_Toady,spr_KSW_Fish_Toady_Pal,series_MegaManUnlimited,legion,0,androidPort,KSW_Phases.afternoon,150);
 	scr_KSW_AddFish("C-Horse",spr_KSW_Fish_CHorse,spr_KSW_Fish_CHorse_Pal,series_MegaManUnlimited,legion,0,androidPort,KSW_Phases.afternoon,1050);
 	scr_KSW_AddFish("Metalaser",spr_KSW_Fish_Metalaser,spr_KSW_Fish_Metalaser_Pal,series_MegaManUnlimited,borange,0,serranoSprings,KSW_Phases.afternoon,150);
@@ -1690,6 +1690,8 @@ function scr_KSW_SetFishes()
 	scr_KSW_AddFish("Whirlpool Man",spr_KSW_Fish_WhirlpoolMan,spr_KSW_Fish_WhirlpoolMan_Pal,series_MegaManUnlimited,legion,2,androidPort,KSW_Phases.afternoon,10500);
 	scr_KSW_AddFish("Octo",spr_KSW_Fish_Octo,spr_KSW_Fish_Octo_Pal,series_MegaManUnlimited,borange,3,androidPort,KSW_Phases.day,105000);
 	scr_KSW_AddFish("Elecrab",spr_KSW_Fish_Elecrab,spr_KSW_Fish_Elecrab_Pal,series_MegaManUnlimited,maze,3,androidPort,KSW_Phases.night,105000);
+	
+	//scr_KSW_AddFish("Booler",spr_KSW_Fish_Booler,spr_KSW_Fish_Booler_Pal,series_KirbysDreamlandAdvance,mage,0,hallowReen,KSW_Phases.day,196);
 	
 	#endregion
 	#endregion

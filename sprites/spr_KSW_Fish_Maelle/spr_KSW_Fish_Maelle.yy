@@ -26,7 +26,7 @@
   "origin":4,
   "parent":{
     "name":"Maelle",
-    "path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.2/Maelle.yy",
+    "path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.3/Maelle.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

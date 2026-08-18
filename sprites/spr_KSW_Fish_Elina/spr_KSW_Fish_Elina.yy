@@ -26,7 +26,7 @@
   "origin":4,
   "parent":{
     "name":"Elina",
-    "path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.2/Elina.yy",
+    "path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.3/Elina.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

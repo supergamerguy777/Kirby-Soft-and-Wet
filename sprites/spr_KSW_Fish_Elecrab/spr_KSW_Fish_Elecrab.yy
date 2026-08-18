@@ -27,7 +27,7 @@
   "origin":4,
   "parent":{
     "name":"Elecrab",
-    "path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.2/Elecrab.yy",
+    "path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.3/Elecrab.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

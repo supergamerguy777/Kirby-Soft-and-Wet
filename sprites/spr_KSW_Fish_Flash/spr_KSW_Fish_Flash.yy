@@ -26,7 +26,7 @@
   "origin":4,
   "parent":{
     "name":"Flash",
-    "path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.2/Flash.yy",
+    "path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.3/Flash.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

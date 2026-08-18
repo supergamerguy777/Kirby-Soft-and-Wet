@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"Ankha",
-    "path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.2/Ankha.yy",
+    "path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.3/Ankha.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

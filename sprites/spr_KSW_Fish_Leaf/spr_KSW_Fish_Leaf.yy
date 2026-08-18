@@ -26,7 +26,7 @@
   "origin":4,
   "parent":{
     "name":"Leaf",
-    "path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.2/Leaf.yy",
+    "path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.3/Leaf.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

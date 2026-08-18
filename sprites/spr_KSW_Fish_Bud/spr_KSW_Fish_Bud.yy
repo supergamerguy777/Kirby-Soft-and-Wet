@@ -26,7 +26,7 @@
   "origin":4,
   "parent":{
     "name":"Bud",
-    "path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.2/Bud.yy",
+    "path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.3/Bud.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

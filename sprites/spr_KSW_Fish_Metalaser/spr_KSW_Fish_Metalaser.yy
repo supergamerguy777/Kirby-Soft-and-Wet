@@ -30,7 +30,7 @@
   "origin":4,
   "parent":{
     "name":"Metalaser",
-    "path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.2/Metalaser.yy",
+    "path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.3/Metalaser.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

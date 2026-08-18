@@ -26,7 +26,7 @@
   "origin":4,
   "parent":{
     "name":"Boomer",
-    "path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.2/Boomer.yy",
+    "path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.3/Boomer.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

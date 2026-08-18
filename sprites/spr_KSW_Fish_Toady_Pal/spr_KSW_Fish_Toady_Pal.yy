@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"Toady",
-    "path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.2/Toady.yy",
+    "path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.3/Toady.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

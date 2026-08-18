@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"Metjack",
-    "path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.2/Metjack.yy",
+    "path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.3/Metjack.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

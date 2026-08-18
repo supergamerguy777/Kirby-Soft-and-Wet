@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"Skoripion",
-    "path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.2/Skoripion.yy",
+    "path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.3/Skoripion.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

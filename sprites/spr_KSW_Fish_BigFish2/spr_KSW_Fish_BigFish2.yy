@@ -27,7 +27,7 @@
   "origin":4,
   "parent":{
     "name":"Big Fish Mk. II",
-    "path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.2/Big Fish Mk. II.yy",
+    "path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.3/Big Fish Mk. II.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

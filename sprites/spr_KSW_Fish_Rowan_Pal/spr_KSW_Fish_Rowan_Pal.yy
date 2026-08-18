@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"Rowan",
-    "path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.2/Rowan.yy",
+    "path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.3/Rowan.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

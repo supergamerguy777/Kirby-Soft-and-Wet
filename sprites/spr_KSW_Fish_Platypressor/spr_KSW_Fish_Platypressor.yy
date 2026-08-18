@@ -34,7 +34,7 @@
   "origin":4,
   "parent":{
     "name":"Platypressor",
-    "path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.2/Platypressor.yy",
+    "path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.3/Platypressor.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

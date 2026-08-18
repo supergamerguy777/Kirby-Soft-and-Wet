@@ -26,7 +26,7 @@
   "origin":4,
   "parent":{
     "name":"Caroline",
-    "path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.2/Caroline.yy",
+    "path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.3/Caroline.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

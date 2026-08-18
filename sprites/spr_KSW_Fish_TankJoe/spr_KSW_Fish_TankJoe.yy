@@ -27,7 +27,7 @@
   "origin":4,
   "parent":{
     "name":"Tank Joe",
-    "path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.2/Tank Joe.yy",
+    "path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.3/Tank Joe.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

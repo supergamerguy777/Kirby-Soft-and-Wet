@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"Plucky",
-    "path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.2/Plucky.yy",
+    "path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.3/Plucky.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
