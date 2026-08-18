@@ -91,7 +91,7 @@ function scr_KSW_SetSeries()
 	scr_KSW_AddSeries("clashClans","Clash of Clans");
 	scr_KSW_AddSeries("celeste","Celeste");
 	scr_KSW_AddSeries("megaManUnlimited","Mega Man Unlimited");
-	scr_KSW_AddSeries("kirbysDreamlandAdvance","Kirby's Dreamland Advance");
+	scr_KSW_AddSeries("bloodstained","Bloodstained");
 	scr_KSW_AddSeries("misc","Misc");
 	#endregion
 }

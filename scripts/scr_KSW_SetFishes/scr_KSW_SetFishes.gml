@@ -11,7 +11,6 @@ function scr_KSW_SetFishes()
 	
 	#region Series
 	var series_Kirby = global.KSW_SeriesIDs[? "kirby"];
-	var series_KirbysDreamlandAdvance = global.KSW_SeriesIDs[? "kirbysDreamlandAdvance"];
 	var series_Castlevania = global.KSW_SeriesIDs[? "castlevania"];
 	var series_Metroid = global.KSW_SeriesIDs[? "metroid"];
 	var series_Insaniquarium = global.KSW_SeriesIDs[? "insaniquarium"];
@@ -94,6 +93,7 @@ function scr_KSW_SetFishes()
 	var series_SnowBros = global.KSW_SeriesIDs[? "snowBros"];
 	var series_ClashClans = global.KSW_SeriesIDs[? "clashClans"];
 	var series_Celeste = global.KSW_SeriesIDs[? "celeste"];
+	var series_Bloodstained = global.KSW_SeriesIDs[? "bloodstained"];
 	var series_Misc = global.KSW_SeriesIDs[? "misc"];
 	#endregion
 	
@@ -1692,6 +1692,10 @@ function scr_KSW_SetFishes()
 	scr_KSW_AddFish("Elecrab",spr_KSW_Fish_Elecrab,spr_KSW_Fish_Elecrab_Pal,series_MegaManUnlimited,maze,3,androidPort,KSW_Phases.night,105000);
 	scr_KSW_AddFish("Coner",spr_KSW_Fish_Coner,spr_KSW_Fish_Coner_Pal,series_Kirby,mage,0,grassBeach,KSW_Phases.day,300);
 	scr_KSW_AddFish("Cawcun",spr_KSW_Fish_Cawcun,spr_KSW_Fish_Cawcun_Pal,series_Kirby,mint,1,grassBeach,KSW_Phases.night,600);
+	scr_KSW_AddFish("Toad (Bloodstained)",spr_KSW_Fish_ToadBlood,spr_KSW_Fish_ToadBlood_Pal,series_Bloodstained,mint,0,serranoSprings,KSW_Phases.night,140);
+	scr_KSW_AddFish("Water Leaper",spr_KSW_Fish_WaterLeaper,spr_KSW_Fish_WaterLeaper_Pal,series_Bloodstained,legion,0,hallowReen,KSW_Phases.night,450);
+	scr_KSW_AddFish("Ice Golem",spr_KSW_Fish_IceGolem,spr_KSW_Fish_IceGolem_Pal,series_Bloodstained,mage,1,creamCrevasse,KSW_Phases.night,3000);
+	scr_KSW_AddFish("Volcanic Golem",spr_KSW_Fish_VolcanicGolem,spr_KSW_Fish_VolcanicGolem_Pal,series_Bloodstained,borange,1,serranoSprings,KSW_Phases.night,4000);
 	
 	#endregion
 	#endregion
