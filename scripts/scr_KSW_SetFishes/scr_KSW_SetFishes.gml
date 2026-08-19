@@ -1703,6 +1703,8 @@ function scr_KSW_SetFishes()
 	
 	scr_KSW_AddFish("Vaporeon",spr_KSW_Fish_Vaporeon,spr_KSW_Fish_Vaporeon_Pal,series_Pokemon,mage,1,grassBeach,KSW_Phases.afternoon,100);
 	scr_KSW_AddFish("Suicune",spr_KSW_Fish_Suicune,spr_KSW_Fish_Suicune_Pal,series_Pokemon,flux,3,creamCrevasse,KSW_Phases.none,20000);
+	scr_KSW_AddFish("Entei",spr_KSW_Fish_Entei,spr_KSW_Fish_Entei_Pal,series_Pokemon,borange,3,serranoSprings,KSW_Phases.none,20000);
+	scr_KSW_AddFish("Raikou",spr_KSW_Fish_Raikou,spr_KSW_Fish_Raikou_Pal,series_Pokemon,glimmer,3,androidPort,KSW_Phases.none,20000);
 	scr_KSW_AddFish("Ho-Oh",spr_KSW_Fish_HoOh,spr_KSW_Fish_HoOh_Pal,series_Pokemon,flux,3,serranoSprings,KSW_Phases.none,35000);
 	scr_KSW_AddFish("Lotad",spr_KSW_Fish_Lotad,spr_KSW_Fish_Lotad_Pal,series_Pokemon,mint,0,hallowReen,KSW_Phases.day,600);
 	scr_KSW_AddFish("Lombre",spr_KSW_Fish_Lombre,spr_KSW_Fish_Lombre_Pal,series_Pokemon,mint,1,hallowReen,KSW_Phases.day,2400);
