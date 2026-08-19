@@ -1694,8 +1694,12 @@ function scr_KSW_SetFishes()
 	scr_KSW_AddFish("Cawcun",spr_KSW_Fish_Cawcun,spr_KSW_Fish_Cawcun_Pal,series_Kirby,mint,1,grassBeach,KSW_Phases.night,600);
 	scr_KSW_AddFish("Toad (Bloodstained)",spr_KSW_Fish_ToadBlood,spr_KSW_Fish_ToadBlood_Pal,series_Bloodstained,mint,0,serranoSprings,KSW_Phases.night,140);
 	scr_KSW_AddFish("Water Leaper",spr_KSW_Fish_WaterLeaper,spr_KSW_Fish_WaterLeaper_Pal,series_Bloodstained,legion,0,hallowReen,KSW_Phases.night,450);
-	scr_KSW_AddFish("Ice Golem",spr_KSW_Fish_IceGolem,spr_KSW_Fish_IceGolem_Pal,series_Bloodstained,mage,1,creamCrevasse,KSW_Phases.night,3000);
-	scr_KSW_AddFish("Volcanic Golem",spr_KSW_Fish_VolcanicGolem,spr_KSW_Fish_VolcanicGolem_Pal,series_Bloodstained,borange,1,serranoSprings,KSW_Phases.night,4000);
+	scr_KSW_AddFish("Yurei",spr_KSW_Fish_Yurei,spr_KSW_Fish_Yurei_Pal,series_Bloodstained,candy,0,serranoSprings,KSW_Phases.night,900);
+	scr_KSW_AddFish("Ice Golem",spr_KSW_Fish_IceGolem,spr_KSW_Fish_IceGolem_Pal,series_Bloodstained,mage,1,creamCrevasse,KSW_Phases.afternoon,3000);
+	scr_KSW_AddFish("Volcanic Golem",spr_KSW_Fish_VolcanicGolem,spr_KSW_Fish_VolcanicGolem_Pal,series_Bloodstained,borange,1,serranoSprings,KSW_Phases.afternoon,4000);
+	scr_KSW_AddFish("Oni",spr_KSW_Fish_Oni,spr_KSW_Fish_Oni_Pal,series_Bloodstained,candy,1,serranoSprings,KSW_Phases.night,9000);
+	scr_KSW_AddFish("Focalor",spr_KSW_Fish_Focalor,spr_KSW_Fish_Focalor_Pal,series_Bloodstained,mage,3,creamCrevasse,KSW_Phases.night,20000);
+	scr_KSW_AddFish("Bathin",spr_KSW_Fish_Bathin,spr_KSW_Fish_Bathin_Pal,series_Bloodstained,flux,3,androidPort,KSW_Phases.day,70000);
 	
 	#endregion
 	#endregion
