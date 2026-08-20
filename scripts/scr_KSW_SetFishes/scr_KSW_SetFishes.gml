@@ -1701,6 +1701,10 @@ function scr_KSW_SetFishes()
 	scr_KSW_AddFish("Focalor",spr_KSW_Fish_Focalor,spr_KSW_Fish_Focalor_Pal,series_Bloodstained,mage,3,creamCrevasse,KSW_Phases.night,20000);
 	scr_KSW_AddFish("Bathin",spr_KSW_Fish_Bathin,spr_KSW_Fish_Bathin_Pal,series_Bloodstained,flux,3,androidPort,KSW_Phases.day,70000);
 	
+	scr_KSW_AddFish("Articuno",spr_KSW_Fish_Articuno,spr_KSW_Fish_Articuno_Pal,series_Pokemon,mage,3,creamCrevasse,KSW_Phases.none,10000);
+	scr_KSW_AddFish("Moltres",spr_KSW_Fish_Moltres,spr_KSW_Fish_Moltres_Pal,series_Pokemon,borange,3,serranoSprings,KSW_Phases.none,10000);
+	scr_KSW_AddFish("Zapdos",spr_KSW_Fish_Zapdos,spr_KSW_Fish_Zapdos_Pal,series_Pokemon,glimmer,3,androidPort,KSW_Phases.none,10000);
+	
 	scr_KSW_AddFish("Vaporeon",spr_KSW_Fish_Vaporeon,spr_KSW_Fish_Vaporeon_Pal,series_Pokemon,mage,1,grassBeach,KSW_Phases.afternoon,2400);
 	scr_KSW_AddFish("Smoochum",spr_KSW_Fish_Smoochum,spr_KSW_Fish_Smoochum_Pal,series_Pokemon,legion,0,creamCrevasse,KSW_Phases.night,100);
 	scr_KSW_AddFish("Jynx",spr_KSW_Fish_Jynx,spr_KSW_Fish_Jynx_Pal,series_Pokemon,legion,1,creamCrevasse,KSW_Phases.night,1000);
@@ -1718,6 +1722,10 @@ function scr_KSW_SetFishes()
 	scr_KSW_AddFish("Groudon",spr_KSW_Fish_Groudon,spr_KSW_Fish_Groudon_Pal,series_Pokemon,borange,3,serranoSprings,KSW_Phases.night,50000);
 	scr_KSW_AddFish("Buizel",spr_KSW_Fish_Buizel,spr_KSW_Fish_Buizel_Pal,series_Pokemon,mage,0,grassBeach,KSW_Phases.day,900);
 	scr_KSW_AddFish("Floatzel",spr_KSW_Fish_Floatzel,spr_KSW_Fish_Floatzel_Pal,series_Pokemon,mage,1,grassBeach,KSW_Phases.day,2600);
+	scr_KSW_AddFish("Dialga",spr_KSW_Fish_Dialga,spr_KSW_Fish_Dialga_Pal,series_Pokemon,flux,3,androidPort,KSW_Phases.none,40000);
+	scr_KSW_AddFish("Palkia",spr_KSW_Fish_Palkia,spr_KSW_Fish_Palkia_Pal,series_Pokemon,legion,3,grassBeach,KSW_Phases.none,40000);
+	scr_KSW_AddFish("Giratina",spr_KSW_Fish_Giratina,spr_KSW_Fish_Giratina_Pal,series_Pokemon,candy,3,hallowReen,KSW_Phases.none,40000);
+	scr_KSW_AddFish("Giratina (Origin Forme)",spr_KSW_Fish_GiratinaOrigin,spr_KSW_Fish_GiratinaOrigin_Pal,series_Pokemon,maze,3,hallowReen,KSW_Phases.none,45000);
 	
 	#endregion
 	#endregion
