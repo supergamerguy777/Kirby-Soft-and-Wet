@@ -1700,12 +1700,17 @@ function scr_KSW_SetFishes()
 	scr_KSW_AddFish("Oni",spr_KSW_Fish_Oni,spr_KSW_Fish_Oni_Pal,series_Bloodstained,candy,1,serranoSprings,KSW_Phases.night,9000);
 	scr_KSW_AddFish("Focalor",spr_KSW_Fish_Focalor,spr_KSW_Fish_Focalor_Pal,series_Bloodstained,mage,3,creamCrevasse,KSW_Phases.night,20000);
 	scr_KSW_AddFish("Bathin",spr_KSW_Fish_Bathin,spr_KSW_Fish_Bathin_Pal,series_Bloodstained,flux,3,androidPort,KSW_Phases.day,70000);
-	
 	scr_KSW_AddFish("Articuno",spr_KSW_Fish_Articuno,spr_KSW_Fish_Articuno_Pal,series_Pokemon,mage,3,creamCrevasse,KSW_Phases.none,10000);
 	scr_KSW_AddFish("Moltres",spr_KSW_Fish_Moltres,spr_KSW_Fish_Moltres_Pal,series_Pokemon,borange,3,serranoSprings,KSW_Phases.none,10000);
 	scr_KSW_AddFish("Zapdos",spr_KSW_Fish_Zapdos,spr_KSW_Fish_Zapdos_Pal,series_Pokemon,glimmer,3,androidPort,KSW_Phases.none,10000);
-	
-	scr_KSW_AddFish("Vaporeon",spr_KSW_Fish_Vaporeon,spr_KSW_Fish_Vaporeon_Pal,series_Pokemon,mage,1,grassBeach,KSW_Phases.afternoon,2400);
+	scr_KSW_AddFish("Eevee",spr_KSW_Fish_Eevee,spr_KSW_Fish_Eevee_Pal,series_Pokemon,candy,0,grassBeach,KSW_Phases.none,400);
+	scr_KSW_AddFish("Vaporeon",spr_KSW_Fish_Vaporeon,spr_KSW_Fish_Vaporeon_Pal,series_Pokemon,flux,1,grassBeach,KSW_Phases.afternoon,2400);
+	scr_KSW_AddFish("Jolteon",spr_KSW_Fish_Jolteon,spr_KSW_Fish_Jolteon_Pal,series_Pokemon,glimmer,1,androidPort,KSW_Phases.day,2400);
+	scr_KSW_AddFish("Flareon",spr_KSW_Fish_Flareon,spr_KSW_Fish_Flareon_Pal,series_Pokemon,borange,1,serranoSprings,KSW_Phases.night,2400);
+	scr_KSW_AddFish("Espeon",spr_KSW_Fish_Espeon,spr_KSW_Fish_Espeon_Pal,series_Pokemon,legion,1,hallowReen,KSW_Phases.afternoon,2400);
+	scr_KSW_AddFish("Umbreon",spr_KSW_Fish_Umbreon,spr_KSW_Fish_Umbreon_Pal,series_Pokemon,maze,1,hallowReen,KSW_Phases.night,2400);
+	scr_KSW_AddFish("Leafeon",spr_KSW_Fish_Leafeon,spr_KSW_Fish_Leafeon_Pal,series_Pokemon,mint,1,grassBeach,KSW_Phases.day,2400);
+	scr_KSW_AddFish("Glaceon",spr_KSW_Fish_Glaceon,spr_KSW_Fish_Glaceon_Pal,series_Pokemon,mage,1,creamCrevasse,KSW_Phases.day,2400);
 	scr_KSW_AddFish("Smoochum",spr_KSW_Fish_Smoochum,spr_KSW_Fish_Smoochum_Pal,series_Pokemon,legion,0,creamCrevasse,KSW_Phases.night,100);
 	scr_KSW_AddFish("Jynx",spr_KSW_Fish_Jynx,spr_KSW_Fish_Jynx_Pal,series_Pokemon,legion,1,creamCrevasse,KSW_Phases.night,1000);
 	scr_KSW_AddFish("Suicune",spr_KSW_Fish_Suicune,spr_KSW_Fish_Suicune_Pal,series_Pokemon,flux,3,creamCrevasse,KSW_Phases.none,20000);
