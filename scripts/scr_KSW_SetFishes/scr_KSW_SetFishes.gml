@@ -1720,6 +1720,8 @@ function scr_KSW_SetFishes()
 	scr_KSW_AddFish("Lotad",spr_KSW_Fish_Lotad,spr_KSW_Fish_Lotad_Pal,series_Pokemon,mint,0,hallowReen,KSW_Phases.day,600);
 	scr_KSW_AddFish("Lombre",spr_KSW_Fish_Lombre,spr_KSW_Fish_Lombre_Pal,series_Pokemon,mint,1,hallowReen,KSW_Phases.day,2400);
 	scr_KSW_AddFish("Ludicolo",spr_KSW_Fish_Ludicolo,spr_KSW_Fish_Ludicolo_Pal,series_Pokemon,mint,2,hallowReen,KSW_Phases.day,8800);
+	scr_KSW_AddFish("Anorith",spr_KSW_Fish_Anorith,spr_KSW_Fish_Anorith_Pal,series_Pokemon,mint,1,serranoSprings,KSW_Phases.afternoon,2000);
+	scr_KSW_AddFish("Armaldo",spr_KSW_Fish_Armaldo,spr_KSW_Fish_Armaldo_Pal,series_Pokemon,mint,2,serranoSprings,KSW_Phases.afternoon,9500);
 	scr_KSW_AddFish("Slugma",spr_KSW_Fish_Slugma,spr_KSW_Fish_Slugma_Pal,series_Pokemon,borange,0,serranoSprings,KSW_Phases.night,600);
 	scr_KSW_AddFish("Magcargo",spr_KSW_Fish_Magcargo,spr_KSW_Fish_Magcargo_Pal,series_Pokemon,borange,1,serranoSprings,KSW_Phases.night,2400);
 	scr_KSW_AddFish("Numel",spr_KSW_Fish_Numel,spr_KSW_Fish_Numel_Pal,series_Pokemon,borange,0,serranoSprings,KSW_Phases.afternoon,600);
