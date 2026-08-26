@@ -1735,8 +1735,8 @@ function scr_KSW_SetFishes()
 	scr_KSW_AddFish("Giratina",spr_KSW_Fish_Giratina,spr_KSW_Fish_Giratina_Pal,series_Pokemon,candy,3,hallowReen,KSW_Phases.none,40000);
 	scr_KSW_AddFish("Giratina (Origin Forme)",spr_KSW_Fish_GiratinaOrigin,spr_KSW_Fish_GiratinaOrigin_Pal,series_Pokemon,maze,3,hallowReen,KSW_Phases.none,45000);
 	
-	scr_KSW_AddFish("Dialga (Origin Forme)",spr_KSW_Fish_DialgaOrigin,spr_KSW_Fish_DialgaOrigin_Pal,series_PMDEoF,mage,3,hallowReen,KSW_Phases.none,45000);
-	scr_KSW_AddFish("Palkia (Origin Forme)",spr_KSW_Fish_PalkiaOrigin,spr_KSW_Fish_PalkiaOrigin_Pal,series_PMDEoF,glimmer,3,hallowReen,KSW_Phases.none,45000);
+	scr_KSW_AddFish("Dialga (Origin Forme)",spr_KSW_Fish_DialgaOrigin,spr_KSW_Fish_DialgaOrigin_Pal,series_PMDEoF,mage,3,androidPort,KSW_Phases.none,45000);
+	scr_KSW_AddFish("Palkia (Origin Forme)",spr_KSW_Fish_PalkiaOrigin,spr_KSW_Fish_PalkiaOrigin_Pal,series_PMDEoF,glimmer,3,grassBeach,KSW_Phases.none,45000);
 	scr_KSW_AddFish("Paldean Wooper",spr_KSW_Fish_PaldeanWooper,spr_KSW_Fish_PaldeanWooper_Pal,series_PMDEoF,mint,0,hallowReen,KSW_Phases.day,400);
 	scr_KSW_AddFish("Clodsire",spr_KSW_Fish_Clodsire,spr_KSW_Fish_Clodsire_Pal,series_PMDEoF,mint,1,hallowReen,KSW_Phases.day,5400);
 	
