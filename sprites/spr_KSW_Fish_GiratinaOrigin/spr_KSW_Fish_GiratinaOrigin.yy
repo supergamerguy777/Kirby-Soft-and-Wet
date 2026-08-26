@@ -26,8 +26,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"GiratinaOrigin",
-    "path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.3/GiratinaOrigin.yy",
+    "name":"Giratina Origin",
+    "path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.3/Giratina Origin.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
