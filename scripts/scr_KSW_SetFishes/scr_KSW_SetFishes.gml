@@ -1712,6 +1712,7 @@ function scr_KSW_SetFishes()
 	scr_KSW_AddFish("Umbreon",spr_KSW_Fish_Umbreon,spr_KSW_Fish_Umbreon_Pal,series_Pokemon,maze,1,hallowReen,KSW_Phases.night,2400);
 	scr_KSW_AddFish("Leafeon",spr_KSW_Fish_Leafeon,spr_KSW_Fish_Leafeon_Pal,series_Pokemon,mint,1,grassBeach,KSW_Phases.day,2400);
 	scr_KSW_AddFish("Glaceon",spr_KSW_Fish_Glaceon,spr_KSW_Fish_Glaceon_Pal,series_Pokemon,mage,1,creamCrevasse,KSW_Phases.day,2400);
+	scr_KSW_AddFish("Sylveon",spr_KSW_Fish_Sylveon,spr_KSW_Fish_Sylveon_Pal,series_PMDEoF,candy,1,creamCrevasse,KSW_Phases.afternoon,2400);
 	scr_KSW_AddFish("Smoochum",spr_KSW_Fish_Smoochum,spr_KSW_Fish_Smoochum_Pal,series_Pokemon,legion,0,creamCrevasse,KSW_Phases.night,100);
 	scr_KSW_AddFish("Jynx",spr_KSW_Fish_Jynx,spr_KSW_Fish_Jynx_Pal,series_Pokemon,legion,1,creamCrevasse,KSW_Phases.night,1000);
 	scr_KSW_AddFish("Suicune",spr_KSW_Fish_Suicune,spr_KSW_Fish_Suicune_Pal,series_Pokemon,flux,3,creamCrevasse,KSW_Phases.none,20000);
@@ -1734,7 +1735,6 @@ function scr_KSW_SetFishes()
 	scr_KSW_AddFish("Palkia",spr_KSW_Fish_Palkia,spr_KSW_Fish_Palkia_Pal,series_Pokemon,legion,3,grassBeach,KSW_Phases.none,40000);
 	scr_KSW_AddFish("Giratina",spr_KSW_Fish_Giratina,spr_KSW_Fish_Giratina_Pal,series_Pokemon,candy,3,hallowReen,KSW_Phases.none,40000);
 	scr_KSW_AddFish("Giratina (Origin Forme)",spr_KSW_Fish_GiratinaOrigin,spr_KSW_Fish_GiratinaOrigin_Pal,series_Pokemon,maze,3,hallowReen,KSW_Phases.none,45000);
-	
 	scr_KSW_AddFish("Dialga (Origin Forme)",spr_KSW_Fish_DialgaOrigin,spr_KSW_Fish_DialgaOrigin_Pal,series_PMDEoF,mage,3,androidPort,KSW_Phases.none,45000);
 	scr_KSW_AddFish("Palkia (Origin Forme)",spr_KSW_Fish_PalkiaOrigin,spr_KSW_Fish_PalkiaOrigin_Pal,series_PMDEoF,glimmer,3,grassBeach,KSW_Phases.none,45000);
 	scr_KSW_AddFish("Paldean Wooper",spr_KSW_Fish_PaldeanWooper,spr_KSW_Fish_PaldeanWooper_Pal,series_PMDEoF,mint,0,hallowReen,KSW_Phases.day,400);
