@@ -1737,6 +1737,14 @@ function scr_KSW_SetFishes()
 	scr_KSW_AddFish("Giratina (Origin Forme)",spr_KSW_Fish_GiratinaOrigin,spr_KSW_Fish_GiratinaOrigin_Pal,series_Pokemon,maze,3,hallowReen,KSW_Phases.none,45000);
 	scr_KSW_AddFish("Dialga (Origin Forme)",spr_KSW_Fish_DialgaOrigin,spr_KSW_Fish_DialgaOrigin_Pal,series_PMDEoF,mage,3,androidPort,KSW_Phases.none,45000);
 	scr_KSW_AddFish("Palkia (Origin Forme)",spr_KSW_Fish_PalkiaOrigin,spr_KSW_Fish_PalkiaOrigin_Pal,series_PMDEoF,glimmer,3,grassBeach,KSW_Phases.none,45000);
+	
+	//scr_KSW_AddFish("Oshawott",spr_KSW_Fish_Oshawott,spr_KSW_Fish_Oshawott_Pal,series_PMDEoF,mage,1,creamCrevasse,KSW_Phases.day,500);
+	//scr_KSW_AddFish("Dewott",spr_KSW_Fish_Dewott,spr_KSW_Fish_Dewott_Pal,series_PMDEoF,mage,2,creamCrevasse,KSW_Phases.afternoon,1500);
+	//scr_KSW_AddFish("Samurott",spr_KSW_Fish_Samurott,spr_KSW_Fish_Samurott_Pal,series_PMDEoF,mage,3,creamCrevasse,KSW_Phases.day,5000);
+	//scr_KSW_AddFish("Hisuian Samurott",spr_KSW_Fish_HisuianSamurott,spr_KSW_Fish_HisuianSamurott_Pal,series_PMDEoF,flux,3,creamCrevasse,KSW_Phases.night,8000);
+	scr_KSW_AddFish("Cryogonal",spr_KSW_Fish_Cryogonal,spr_KSW_Fish_Cryogonal_Pal,series_PMDEoF,mage,1,creamCrevasse,KSW_Phases.night,5300);
+	scr_KSW_AddFish("Basculin",spr_KSW_Fish_Basculin,spr_KSW_Fish_Basculin_Pal,series_PMDEoF,legion,0,hallowReen,KSW_Phases.day,300);
+	scr_KSW_AddFish("Basculegion",spr_KSW_Fish_Basculegion,spr_KSW_Fish_Basculegion_Pal,series_PMDEoF,legion,1,hallowReen,KSW_Phases.day,5500);
 	scr_KSW_AddFish("Paldean Wooper",spr_KSW_Fish_PaldeanWooper,spr_KSW_Fish_PaldeanWooper_Pal,series_PMDEoF,mint,0,hallowReen,KSW_Phases.day,400);
 	scr_KSW_AddFish("Clodsire",spr_KSW_Fish_Clodsire,spr_KSW_Fish_Clodsire_Pal,series_PMDEoF,mint,1,hallowReen,KSW_Phases.day,5400);
 	
