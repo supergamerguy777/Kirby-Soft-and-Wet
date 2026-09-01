@@ -1744,6 +1744,9 @@ function scr_KSW_SetFishes()
 	scr_KSW_AddFish("Cryogonal",spr_KSW_Fish_Cryogonal,spr_KSW_Fish_Cryogonal_Pal,series_PMDEoF,mage,1,creamCrevasse,KSW_Phases.night,5300);
 	scr_KSW_AddFish("Basculin",spr_KSW_Fish_Basculin,spr_KSW_Fish_Basculin_Pal,series_PMDEoF,legion,0,hallowReen,KSW_Phases.day,300);
 	scr_KSW_AddFish("Basculegion",spr_KSW_Fish_Basculegion,spr_KSW_Fish_Basculegion_Pal,series_PMDEoF,legion,1,hallowReen,KSW_Phases.day,5500);
+	scr_KSW_AddFish("Reshiram",spr_KSW_Fish_Reshiram,spr_KSW_Fish_Reshiram_Pal,series_PMDEoF,borange,3,serranoSprings,KSW_Phases.none,50000);
+	scr_KSW_AddFish("Zekrom",spr_KSW_Fish_Zekrom,spr_KSW_Fish_Zekrom_Pal,series_PMDEoF,glimmer,3,androidPort,KSW_Phases.none,50000);
+	scr_KSW_AddFish("Kyurem",spr_KSW_Fish_Kyurem,spr_KSW_Fish_Kyurem_Pal,series_PMDEoF,legion,3,creamCrevasse,KSW_Phases.none,55000);
 	scr_KSW_AddFish("Paldean Wooper",spr_KSW_Fish_PaldeanWooper,spr_KSW_Fish_PaldeanWooper_Pal,series_PMDEoF,mint,0,hallowReen,KSW_Phases.day,400);
 	scr_KSW_AddFish("Clodsire",spr_KSW_Fish_Clodsire,spr_KSW_Fish_Clodsire_Pal,series_PMDEoF,mint,1,hallowReen,KSW_Phases.day,5400);
 	
